@@ -1,11 +1,11 @@
 # Gregory Hallenbeck, Ph.D.
 
-I'm a lecturer and the senior coordinator of the [Digital & Data Studies](https://www.binghamton.edu/harpur/degrees/digital-data.html)
+I'm an instructor and the director of the [Digital & Data Studies](https://www.binghamton.edu/harpur/degrees/digital-data.html)
 program at Binghamton University. We are a minor that grounds technology, primarily programming, data science, and the digital humanities, in the liberal art,
 including questions of social justice, technology ethics, and critical data studies. We emphasize accessibility and inclusivity of technology.
 
 My teaching has covered many topics over the years, including:
-* [DIDA 210: Text Mining](https://drive.google.com/drive/folders/18OGHfulQ9-w2MgQv6ihP2It5yUE0-OYd?usp=drive_link)
+* [DIDA 310: Text Mining](https://drive.google.com/drive/folders/18OGHfulQ9-w2MgQv6ihP2It5yUE0-OYd?usp=drive_link)
 * [DIDA 325: Data & Society](https://docs.google.com/document/d/1k_5ktJT7uoeeNbiZd5dmeAxqpZDwToR19zelt6Cvfq0/edit?usp=sharing),
   the minor's introductory data science and data justice course.
 * [DIDA 340: Intro to Deep Learning]
