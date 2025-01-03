@@ -8,7 +8,7 @@ My teaching has covered many topics over the years, including:
 * [DIDA 310: Text Mining](https://drive.google.com/drive/folders/18OGHfulQ9-w2MgQv6ihP2It5yUE0-OYd?usp=drive_link)
 * [DIDA 325: Data & Society](https://docs.google.com/document/d/1k_5ktJT7uoeeNbiZd5dmeAxqpZDwToR19zelt6Cvfq0/edit?usp=sharing),
   the minor's introductory data science and data justice course.
-* [DIDA 340: Intro to Deep Learning]
+* [DIDA 340: Intro to Deep Learning](https://drive.google.com/drive/folders/1rkKqw8x1Cqug_20Emt8CjQKx_FhD942n?usp=drive_link)
 * [DIDA 425: Digital Inquiry & Practice](https://docs.google.com/document/d/1ivcTGiTCEYvrqetfZ8rFmSVJNJGV_CqpxhtWSS0b9JI/edit?usp=sharing), the minor's capstone focusing on project-based learning and professional development
 
 At my previous position at Washington & Jefferson College, I also taught courses on
